@@ -52,10 +52,10 @@ Aplicación back end desarrollada para la **Superintendencia del Medio Ambiente 
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/abrahamruiz">
+  <a href="https://linkedin.com/in/abrahamruizfuentes">
     <img src="https://img.shields.io/badge/LinkedIn-Abraham%20Ruiz-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:abraham@example.com">
+  <a href="mailto:abrahamruizfuentes@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
