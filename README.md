@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/00000000/abraham-banner.png" alt="Abraham Ruiz GitHub Banner" width="100%" />
@@ -71,9 +71,8 @@ Aplicación back end desarrollada para la **Superintendencia del Medio Ambiente 
 ---
 
 ### 🧩 Fun fact
-> Hay desarrolladores que escriben código.  
-> Hay ingenieros que diseñan sistemas.  
-> **Yo hago ambas cosas.**
+> Diseño sistemas, engranajes y motores,
+pero también levanto APIs y servidores.
 
 ---
 
